@@ -1,6 +1,8 @@
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/mattporritt/moodle-search_elastic/ci.yml?branch=MOODLE_404_STABLE)
 
-# Moodle Global Search - Elasticsearch Backend
+# Moodle Global Search - Elasticsearch Backend 
+
+## David
 
 This plugin allows Moodle to use Elasticsearch as the search engine for Moodle's Global Search.
 
